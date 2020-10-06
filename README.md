@@ -7,7 +7,7 @@ these tables - if there is room. Servus can carry 2 glasses (full or empty) and 
 to 3 glasses (full or empty).
 
 # Demo
-https://jsfiddle.net/eriksv88/dba7ctos/1/show
+**LIVE DEMO:** https://jsfiddle.net/eriksv88/dba7ctos/1/show
 
 ![JS-Servus-Planning-Robot](Screenshots/serv.jpg)
 
