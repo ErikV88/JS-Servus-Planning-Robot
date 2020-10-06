@@ -13,4 +13,4 @@ https://jsfiddle.net/eriksv88/dba7ctos/show
 
 # Credit
 This code is rewritten from python.
-This application uses cdoe from course INFO180 at UiB. And is originally written by Bjornar Tessem.
+This application uses code from course INFO180 at UiB. And is originally written by Bjornar Tessem.
