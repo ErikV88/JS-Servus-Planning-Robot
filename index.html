@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Servus</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="./Css/Style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.2/css/all.min.css" >
+</head>
+<body>
+    <div id="house">
+        <div id="Kitchen" class="room">
+            <span class="badge  badge-primary">Kitchen</span>
+
+            <div class="table" id="K">
+            </div>
+            <i class="fas fa-robot" id="servus"></i>
+        </div>
+        <div class="room">
+            <span class="badge  badge-primary">Living Room</span>
+
+            <div class="table" id="T1"> </div>
+
+            <div class="table" id="T2">
+            </div>
+        </div>
+        <span id="console"></span><br>
+        <button id="go">
+            Start !
+        </button>
+
+        <img src="https://i.ibb.co/2y6b6Vj/empty-glass-outline.png" style="display:none;" />
+        <img src="https://i.ibb.co/4VT0fK8/empty-glass-w.png" style="display:none;" />
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+            integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+            crossorigin="anonymous"></script>
+    <script src="./Scripts/Queue.js"></script>
+    <script src="./Scripts/Helpers.js"></script>
+    <script src="./Scripts/ServusState.js"></script>
+    <script src="./Scripts/ServusSpace.js"></script>
+    <script src="./Scripts/ServusUI.js"></script>
+    <script src="./Scripts/Main.js"></script>
+
+</body>
+</html>
