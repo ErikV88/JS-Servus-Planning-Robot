@@ -22,9 +22,9 @@ Move to one of the tables
 6. When Servus is back in the kitchen, Servus will unload the empty glasses. It should not be
 full glasses with back to the kitchen.
 The goal for Servus after one round is that
- there are as many full glasses on the tables as possible,
- as few empty glasses on the tables as possible,
- Servus is back in the kitchen, has nothing in his hands and has done this with so few
+- There are as many full glasses on the tables as possible,
+- As few empty glasses on the tables as possible,
+- Servus is back in the kitchen, has nothing in his hands and has done this with so few
 actions as possible.
 
 # Credit
