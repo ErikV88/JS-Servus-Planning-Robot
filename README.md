@@ -28,6 +28,6 @@ The goal for Servus after one round is that
 actions as possible.
 
 # Credit
-This code is rewritten from python.
+This code is rewritten from Python.
 This application uses code from course INFO180 at UiB. And is originally written by [Bjornar Tessem](https://www.uib.no/personer/Bj%C3%B8rnar.Tessem). 
 
