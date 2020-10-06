@@ -12,21 +12,20 @@ https://jsfiddle.net/eriksv88/dba7ctos/1/show
 ![JS-Servus-Planning-Robot](Screenshots/serv.jpg)
 
 # Description
-1. Observere status på kvart bord
-2. Laste på eit passande antal fulle glas på kjøkkenet
-3. Bevege seg til eitt av borda
-4. Sette ut fulle og ta inn tomme glas – HUGS! det må vere plass hos Servus og på bordet.
-5. Velge om ein skal gå til det andre bordet eller gå tilbake til kjøkkenet
-- a. Alternativ 1 – gå vidare og gjer som i steg 4
-- b. Alternativ 2 – gå til kjøkkenet
-6. Når Servus er tilbake på kjøkkenet skal Servus laste av dei tomme glasa. Det skal ikkje vere
-fulle glas med tilbake til kjøkkenet.
-Målet for Servus etter ei runde, er at
- det er så mange fulle glas på borda som mogleg,
- så få tomme glas på borda som mogleg,
- Servus er tilbake på kjøkkenet, har ingenting i hendene og har gjort dette med så få
-handlingar som mulig.
-
+1. Observe the status of the quarter board
+2. Load an appropriate number of full glasses in the kitchen
+Move to one of the tables
+4. Put out full and take in empty glasses - HUGS! there must be room at Servus and on the table.
+5. Choose whether to go to the other table or return to the kitchen
+- a. Alternative 1 - go ahead and do as in step 4
+- b. Option 2 - go to the kitchen
+6. When Servus is back in the kitchen, Servus will unload the empty glasses. It should not be
+full glasses with back to the kitchen.
+The goal for Servus after one round is that
+ there are as many full glasses on the tables as possible,
+ as few empty glasses on the tables as possible,
+ Servus is back in the kitchen, has nothing in his hands and has done this with so few
+actions as possible.
 
 # Credit
 This code is rewritten from python.
