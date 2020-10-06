@@ -9,7 +9,7 @@ to 3 glasses (full or empty).
 # Demo
 https://jsfiddle.net/eriksv88/dba7ctos/show
 
-![JS-Servus-Planning-Robot](Screenshots/serv.png)
+![JS-Servus-Planning-Robot](Screenshots/serv.jpg)
 
 # Credit
 This code is rewritten from python.
