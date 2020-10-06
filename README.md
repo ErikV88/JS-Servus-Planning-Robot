@@ -15,7 +15,7 @@ to 3 glasses (full or empty).
 1. Observe the status of the quarter board
 2. Load an appropriate number of full glasses in the kitchen
 Move to one of the tables
-4. Put out full and take in empty glasses - HUGS! there must be room at Servus and on the table.
+4. Put out full and take in empty glasses - ! There must be room at Servus and on the table.
 5. Choose whether to go to the other table or return to the kitchen
 - a. Alternative 1 - go ahead and do as in step 4
 - b. Option 2 - go to the kitchen
