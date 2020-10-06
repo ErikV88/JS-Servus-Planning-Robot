@@ -29,5 +29,5 @@ actions as possible.
 
 # Credit
 This code is rewritten from python.
-This application uses code from course INFO180 at UiB. And is originally written by Bjornar Tessem. [a link](https://github.com/user/repo/blob/branch/other_file.md)
+This application uses code from course INFO180 at UiB. And is originally written by [Bjornar Tessem](https://www.uib.no/personer/Bj%C3%B8rnar.Tessem). 
 
