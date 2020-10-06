@@ -78,7 +78,7 @@
         },
         {
             'name': 'T2',
-            'full': solution.value.t1_full,
+            'full': solution.value.t2_full,
             'empty': solution.value.t2_empty
         }
         ];
