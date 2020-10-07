@@ -29,5 +29,7 @@ actions as possible.
 
 # Credit
 This code is rewritten from Python.
-This application uses code from course INFO180 at UiB. And is originally written by [Bjornar Tessem](https://www.uib.no/personer/Bj%C3%B8rnar.Tessem). 
+This application uses code from course [INFO180 at UiB](https://www.uib.no/emne/INFO180). And is originally written by [Bjornar Tessem](https://www.uib.no/personer/Bj%C3%B8rnar.Tessem). 
+
+
 
