@@ -1,39 +1,37 @@
 ﻿#house {
-    width: 300px;
-    height: 400px;
-    background: #ddd;
-    border-style: solid;
-    margin: 10px;
+  width: 300px;
+  height: 400px;
+  background: #ddd;
+  border-style: solid;
+  margin: 10px;
 }
 
-#console {
-    margin-left: 10px;
+#console,#state,#go {
+  margin-left: 10px;
+	width: 280px;
 }
 
-#go {
-    margin-left: 10px;
-}
 
 #servus {
-    position: absolute;
-    top: 51px;
-    left: 152px;
-    font-size: 30px;
+  position: absolute;
+  top: 51px;
+  left: 152px;
+  font-size: 30px;
 }
 
 .room {
-    padding: 10px;
+  padding: 10px;
 }
 
 #Kitchen {
-    height: 100px;
-    background: #6C757E;
+  height: 100px;
+  background: #6C757E;
 }
 
 .table {
-    margin-top: 5px;
-    width: 100px;
-    height: 50px;
-    border-style: solid;
-    padding: 5px;
+  margin-top: 5px;
+  width: 100px;
+  height: 50px;
+  border-style: solid;
+  padding: 5px;
 }
